@@ -230,7 +230,7 @@
   }
 
 }
-@media screen and (min-width: 400px) and (max-width: 900px) {
+@media screen and (min-width: 300px) and (max-width: 900px) {
   .menu {
     list-style: none;
     padding: 0;
